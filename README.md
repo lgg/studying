@@ -3,14 +3,14 @@
 ## Содержание
 * [Тесты](#тесты)
 * Темы
-  * [Web разработка](#web-разработка)
-    * [Frontend](#frontend)
-      * [Javascript](#javascript)
-      * [CSS](#css)
-      * [Workflow](#workflow)
-      * [Полезные ссылки](#полезные-ссылки)
-    * [Backend](#backend)
-  * [Capture The Flag](#capture-the-flag)
+    * Web разработка
+        * [Frontend](./frontend.md)
+            * [Javascript](./javascript.md)
+            * [CSS](./css.md)
+            * [Workflow](./workflow.md)
+            * [Полезные ссылки](./links.md)
+        * [Backend](./backend.md)
+    * [Capture The Flag](./ctf.md)
 * [Вопросы](#вопросы)
 
 ## Тесты
