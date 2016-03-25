@@ -29,6 +29,7 @@
 * WEB
     * [Тесты на знания SQL](./web.md#sql)
     * [Тесты на знания PHP](./php.md#Тесты)
+    * [Тест на php+sql](https://tests4geeks.com/test/php-mysql)
 
 ## Вопросы
 * А если я хочу предложить свой материал? - сделайте pull request или откройте issue
