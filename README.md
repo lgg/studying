@@ -14,9 +14,14 @@
         * [Java](./java.md)
     * [Desktop разработка](./desktop.md)
     * [Capture The Flag](./ctf.md)
+* [Ресурсы](#Ресурсы)
 * [Задания](./tasks.md)
 * [Тесты](#Тесты)
 * [Вопросы](#Вопросы)
+
+##Ресурсы
+* [Дайджест бесплатных образовательных материалов](https://habrahabr.ru/company/mailru/blog/280079/)
+* [15 бесплатных онлайн курсов по программированию](https://habrahabr.ru/company/studyqa/blog/280111/)
 
 ## Тесты
 * Общие
