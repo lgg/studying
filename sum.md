@@ -10,5 +10,6 @@
 * [Современный учебник JavaScript](http://learn.javascript.ru/)
 
 ## Общие ресурсы
+* [Отличный курс по frontend от htmlacademy](https://htmlacademy.ru/)
 * [Ресурс с полезными статьями по frontend](http://frontender.info/)
 * [Отличный ресурс с уроками и заданиями по frontend](http://jsraccoon.ru/)
