@@ -13,6 +13,7 @@
     * [Мобильная разработка](./mobile.md)
         * [Java](./java.md)
     * [Desktop разработка](./desktop.md)
+    * [Системное администрирование](./system.md)
     * [Capture The Flag](./ctf.md)
 * [Ресурсы](#Ресурсы)
 * [Задания](./tasks.md)
