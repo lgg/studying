@@ -1,12 +1,15 @@
 # PHP
 
 ## Содержание
-* [PHP правильный путь](http://getjump.me/ru-php-the-right-way/)
 * [Стек PHP](https://map.hexlet.io/stacks/php)
+* [Учебники](#Учебники)
 * [Тесты](#Тесты)
 * []()
 * []()
-* []()
+
+## Учебники
+* [PHP правильный путь](http://getjump.me/ru-php-the-right-way/)
+* [Интерактивное обучение PHP](https://www.phpschool.io/)
 
 ## Тесты
 * [Сертификация от mail.ru](https://certification.mail.ru/)
