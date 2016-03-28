@@ -4,7 +4,7 @@
 * [Что изучать?](#Что-изучать)
 * [HTML](#html)
 * [CSS](#css)
-* [JavaScript](#javascript)
+* [JavaScript](./javascript.md)
 
 ## Что изучать?
 * [Вариант от frontender.info](http://frontender.info/a-baseline-for-front-end-developers/)
@@ -17,5 +17,3 @@
 ## CSS
 * FlexBox
     * [Онлайн демо для быстрого понимания и изучения](http://flexboxfroggy.com/)
-
-## JavaScript
