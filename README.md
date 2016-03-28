@@ -17,6 +17,7 @@
 * [Ресурсы](#Ресурсы)
 * [Задания](./tasks.md)
 * [Тесты](#Тесты)
+* [Соревнования](#Соревнования)
 * [Вопросы](#Вопросы)
 
 ##Ресурсы
@@ -32,6 +33,11 @@
     * [Тесты на знания SQL](./web.md#sql)
     * [Тесты на знания PHP](./php.md#Тесты)
     * [Тест на php+sql](https://tests4geeks.com/test/php-mysql)
+
+## Соревнования
+* [CodeFights](https://codefights.com/)
+* [CodeWars](http://www.codewars.com/)
+* [CodeForces](http://codeforces.com/)
 
 ## Вопросы
 * А если я хочу предложить свой материал? - сделайте pull request или откройте issue
