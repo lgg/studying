@@ -1,17 +1,17 @@
-# Учебники и общие ресурсы
+# РЈС‡РµР±РЅРёРєРё Рё РѕР±С‰РёРµ СЂРµСЃСѓСЂСЃС‹
 
-## Содержание 
-* [Учебники](#Учебники)
-* [Общие ресурсы](#Общие-ресурсы)
+## РЎРѕРґРµСЂР¶Р°РЅРёРµ 
+* [РЈС‡РµР±РЅРёРєРё](#РЈС‡РµР±РЅРёРєРё)
+* [РћР±С‰РёРµ СЂРµСЃСѓСЂСЃС‹](#РћР±С‰РёРµ-СЂРµСЃСѓСЂСЃС‹)
 
-## Учебники
-* [PHP правильный путь](http://getjump.me/ru-php-the-right-way/)
-* [Интерактивное обучение PHP](https://www.phpschool.io/)
+## РЈС‡РµР±РЅРёРєРё
+* [PHP РїСЂР°РІРёР»СЊРЅС‹Р№ РїСѓС‚СЊ](http://getjump.me/ru-php-the-right-way/)
+* [РРЅС‚РµСЂР°РєС‚РёРІРЅРѕРµ РѕР±СѓС‡РµРЅРёРµ PHP](https://www.phpschool.io/)
 * [JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
-* [Современный учебник JavaScript](http://learn.javascript.ru/)
-* [Интерактивное обучение JavaScript](http://nodeschool.io/ru/)
+* [РЎРѕРІСЂРµРјРµРЅРЅС‹Р№ СѓС‡РµР±РЅРёРє JavaScript](http://learn.javascript.ru/)
+* [РРЅС‚РµСЂР°РєС‚РёРІРЅРѕРµ РѕР±СѓС‡РµРЅРёРµ JavaScript](http://nodeschool.io/ru/)
 
-## Общие ресурсы
-* [Отличный курс по frontend от htmlacademy](https://htmlacademy.ru/)
-* [Ресурс с полезными статьями по frontend](http://frontender.info/)
-* [Отличный ресурс с уроками и заданиями по frontend](http://jsraccoon.ru/)
+## РћР±С‰РёРµ СЂРµСЃСѓСЂСЃС‹
+* [РћС‚Р»РёС‡РЅС‹Р№ РєСѓСЂСЃ РїРѕ frontend РѕС‚ htmlacademy](https://htmlacademy.ru/)
+* [Р РµСЃСѓСЂСЃ СЃ РїРѕР»РµР·РЅС‹РјРё СЃС‚Р°С‚СЊСЏРјРё РїРѕ frontend](http://frontender.info/)
+* [РћС‚Р»РёС‡РЅС‹Р№ СЂРµСЃСѓСЂСЃ СЃ СѓСЂРѕРєР°РјРё Рё Р·Р°РґР°РЅРёСЏРјРё РїРѕ frontend](http://jsraccoon.ru/)
