@@ -1,10 +1,9 @@
-# Мероприятия
+# Соревнования
 
 ## Содержание
-* [Meet-ups](./meetups.md)
-* [Соревнования](#Соревнования)
+* [Общие](#Общие)
 
-## Соревнования
+## Общие
 * [CodeFights](https://codefights.com/)
 * [CodeWars](http://www.codewars.com/)
 * [CodeForces](http://codeforces.com/)
