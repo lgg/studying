@@ -3,11 +3,15 @@
 ## Содержание
 * [Стек PHP](https://map.hexlet.io/stacks/php)
 * [Учебники](#Учебники)
+* [Курсы](#Курсы)
 * [Тесты знаний](#Тесты-знаний)
 
 ## Учебники
 * [PHP правильный путь](http://getjump.me/ru-php-the-right-way/)
 * [Интерактивное обучение PHP](https://www.phpschool.io/)
+
+## Курсы
+* [PHP-программист от hexlet](https://ru.hexlet.io/professions/php)
 
 ## Тесты знаний
 * [Сертификация от mail.ru](https://certification.mail.ru/)
