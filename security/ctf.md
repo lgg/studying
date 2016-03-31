@@ -81,8 +81,6 @@
 * [VolgaCTF is an international interuniversity open cybersecurity competition](https://2016.volgactf.ru/)
 * [QCTF — это соревнования по защите информации по правилам Capture the flag (CTF)](http://qctf.ru)
 * [Московские студенческие межвузовские соревнования в области информационной безопасности M*CTF](http://mctf.ru/)
-* [Конференция PHDays](http://www.phdays.ru/)
-* [Конференция ZeroNights](http://zeronights.org/)
 
 ## Видео-лекции от HackerDom
 * [Подробности](https://vk.com/wall-36153862_996)
