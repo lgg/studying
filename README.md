@@ -2,7 +2,7 @@
 
 ## Содержание
 * Темы
-    * [С чего начать?](.get-started.md)
+    * [С чего начать?](./get-started.md)
     * [Общие знания](/general/readme.md)
         * [GIT](/general/git.md)
         * [Инструменты разработки](/general/tools.md)
