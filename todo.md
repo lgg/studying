@@ -13,3 +13,5 @@
 * npm скрипты
 * именования css
 * PSR
+
+* check raindrop for links
