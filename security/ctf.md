@@ -20,12 +20,12 @@
 * [Веб-безопасность 101. Курс молодого бойца by Андрей Петухов](https://docs.google.com/document/d/13zgZ_CRRHADwxf41mSSSuoJQLkMc67TXxpYLoW6lRak)
 * [Анализ безопасности веб-проектов ](https://stepic.org/course/127/)
 * [Площадка команды Хакердом](http://training.hackerdom.ru/)
-* [Обзор соревнований по безопасности CTF](/files/ctf/30_Jukova_D_O.pdf)
-* [О соревнованиях CTF](/files/ctf/o-sorevnovaniyah-ctf-po-kompyuternoy-bezopasnosti.pdf)
+* [Обзор соревнований по безопасности CTF](/files/security/ctf/30_Jukova_D_O.pdf)
+* [О соревнованиях CTF](/files/security/ctf/o-sorevnovaniyah-ctf-po-kompyuternoy-bezopasnosti.pdf)
 * [О соревнованиях CTF и список материалов](http://pycode.ru/2011/01/ctf/)
 
 ### На английском
-* [Инструкция по Volatility](/files/ctf/Volatility-Report-Part-2_1.pdf)
+* [Инструкция по Volatility](/files/security/ctf/Volatility-Report-Part-2_1.pdf)
 
 ## Подкасты
 * [Открытая безопасность](http://www.open-sec.ru/)
