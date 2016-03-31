@@ -1,13 +1,22 @@
 # WEB-разработка
 
 ## Содержание
+* [Карта обучения](#Карта-обучения)
 * [Frontend](./frontend.md)
+    * [HTML](./html.md)
+    * [CSS](./css.md)
+    * [JavaScript](./javascript.md)
 * [Backend](./backend.md)
     * [PHP](./php.md)
-* [Карта обучения](#Карта-обучения)
-* [SQL](#sql)
+* [SQL](./sql.md)
+* [SEO](./seo.md)
 * [Полезные статьи](#Полезные-статьи)
-* [Чаты](#Чаты)
+* [Чаты](/general/chats.md#web-разработка)
+
+## Полезные статьи
+* [10 правил создания сайтов для пользователей](https://habrahabr.ru/post/107988/)
+* [Теория решения задач](http://vimeo.com/84434186)
+* [Также смотрите материалы в общих ресурсах](/general/general.md)
 
 ## Карта обучения
 1. Клиенты и сервера
@@ -99,23 +108,3 @@
         * Сложные запросы
         * Использование функций в бд
     * Composer
-
-
-
-
-## SQL
-* [Series of interactive lessons and exercises](http://sqlbolt.com/)
-* [3-х часовой курс на codecademy](https://www.codecademy.com/learn/learn-sql)
-* [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises)
-* [SQL Fiddle](http://sqlfiddle.com/)
-* [Тесты на знания SQL](http://sql-ex.ru/learn_exercises.php)
-
-## Полезные статьи
-* [10 правил создания сайтов для пользователей](https://habrahabr.ru/post/107988/)
-* [Теория решения задач](http://vimeo.com/84434186)
-* [Основные паттерны веб-программирования + MVC](http://habrahabr.ru/post/136766/)
-
-## Чаты
-* [Gitter frontend-ua](https://gitter.im/dev-ua/frontend-ua)
-* [html-css-webdesign chat](http://chat.stackoverflow.com/rooms/29074/html-css-webdesign)
-* [web-standards.slack](https://web-standards.slack.com/)
