@@ -14,7 +14,6 @@
 * npm скрипты
 * именования css
 * PSR
-* обновить ссылки на каждый пункт в web.md
 
 * check raindrop for links
 
