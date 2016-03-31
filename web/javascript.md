@@ -13,6 +13,19 @@
 * [JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
 * [Современный учебник JavaScript](http://learn.javascript.ru/)
 * [Интерактивное обучение JavaScript](http://nodeschool.io/ru/)
+* [Выразительный Javascript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
+
+### На английском:
+* [JavaScript & jQuery](http://javascriptbook.com/)
+* [JavaScript for Kids](https://www.nostarch.com/javascriptforkids)
+* [JavaScript for Cats](http://jsforcats.com/)
+* [Learn Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [ECMAScript Language Specification](http://www.ecma-international.org/ecma-262/5.1/)
+* [Structure and Interpretation of Computer Programs](http://web.mit.edu/alexmv/6.037/sicp.pdf)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
+* [JavaScript glossary on demand](https://leanpub.com/jsglossary/)
+* [Eloquent Javascript](http://eloquentjavascript.net/)
 
 ## Курсы
 * [CodeAcademy](https://www.codecademy.com/learn/javascript)
