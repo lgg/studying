@@ -17,3 +17,14 @@
 * обновить ссылки на каждый пункт в web.md
 
 * check raindrop for links
+
+* maybe add media school
+* maybe create static site with jekyll from this?
+
+
+tools.md:
+    gulp
+    image magick
+    putty
+    keepass
+    git bash
