@@ -7,6 +7,7 @@
 * [Информатика](#Информатика)
 * [GIT](./git.md)
 * [Интернет](#Интернет)
+    * [HTTP](#http)
     * [URI & URL](#uri--url)
 
 ## Подход к изучению
@@ -61,6 +62,10 @@
 
 ## Интернет
 * [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habrahabr.ru/company/htmlacademy/blog/254825/)
+
+### HTTP
+* [HTTP — протокол уровня приложений](https://habrahabr.ru/post/137924/)
+* [15 тривиальных фактов о правильной работе с протоколом HTTP](https://habrahabr.ru/company/yandex/blog/265569/)
 
 ### URI & URL
 * [URI — сложно о простом (Часть 1)](https://habrahabr.ru/post/232385/)
