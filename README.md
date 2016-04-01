@@ -12,6 +12,7 @@
             * [HTML](/web/html.md)
             * [CSS](/web/css.md)
             * [Javascript](/web/javascript.md)
+            * [Инструменты разработчика](./tools.md)
         * [Backend](/web/backend.md)
             * [PHP](/web/php.md)
         * [SQL](/web/sql.md)

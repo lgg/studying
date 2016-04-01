@@ -5,6 +5,7 @@
 * [HTML](./html.md)
 * [CSS](./css.md)
 * [JavaScript](./javascript.md)
+* [Инструменты разработчика](./tools.md)
 
 ## Что изучать?
 * [Вариант от frontender.info](http://frontender.info/a-baseline-for-front-end-developers/)
