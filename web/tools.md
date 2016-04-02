@@ -11,6 +11,7 @@
 * [Gulp + Browserify и всё, всё, всё](http://frontender.info/gulp-browserify-starter-faq/)
 
 ## NPM
+* [NPM для начинающих](http://prgssr.ru/development/vvedenie-v-paketnyj-menedzher-npm-dlya-nachinayushih.html)
 * [Guide для начинающих](http://www.sitepoint.com/beginners-guide-node-package-manager/)
 * [npm для простых смертных](https://habrahabr.ru/post/243335/)
 * [Шпаргалка по пакетному менеджеру NPM](https://habrahabr.ru/post/133363/)
