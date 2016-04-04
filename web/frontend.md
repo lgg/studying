@@ -1,11 +1,15 @@
 # Frontend
 
 ## Содержание
+* [Ресурсы](#Ресурсы)
 * [Что изучать?](#Что-изучать)
 * [HTML](./html.md)
 * [CSS](./css.md)
 * [JavaScript](./javascript.md)
 * [Инструменты разработчика](./tools.md)
+
+## Ресурсы
+* [Справочник, курсы, уроки и всё на русском языке](https://webref.ru/)
 
 ## Что изучать?
 * [Вариант от frontender.info](http://frontender.info/a-baseline-for-front-end-developers/)
