@@ -56,6 +56,7 @@
 * [Паттерны проектирования](http://design-pattern.ru/)
 * [Основные паттерны веб-программирования + MVC](http://habrahabr.ru/post/136766/)
 * [MVC](http://design-pattern.ru/patterns/mvc.html)
+* [Реализация MVC паттерна на примере создания сайта-визитки на PHP](https://habrahabr.ru/post/150267/)
 
 ## Информатика
 * [Машина Тьюринга](http://inf.1september.ru/articlef.php?ID=200600802)
