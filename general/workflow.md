@@ -8,6 +8,7 @@
 
 ## Работа в команде
 * [5 правил общения](https://megamozg.ru/post/24352/)
+* [Тест Джоэла как инструмент собеседуемого и оценки команды/проекта](https://habrahabr.ru/company/jugru/blog/159689/)
 
 ## Менеджеры задач
 * [Trello](https://trello.com/)
