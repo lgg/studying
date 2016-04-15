@@ -9,6 +9,7 @@
 ## Учебники
 * [PHP правильный путь](http://getjump.me/ru-php-the-right-way/)
 * [Интерактивное обучение PHP](https://www.phpschool.io/)
+* [ООП в php](http://www.php.su/learnphp/phpoo/)
 
 ## Курсы
 * [PHP-программист от hexlet](https://ru.hexlet.io/professions/php)
