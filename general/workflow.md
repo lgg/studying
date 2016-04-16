@@ -7,6 +7,7 @@
 * [Инструменты](./tools.md)
 
 ## Работа в команде
+* [The Clean Code Game](https://cleancodegame.github.io/)
 * [5 правил общения](https://megamozg.ru/post/24352/)
 * [Тест Джоэла как инструмент собеседуемого и оценки команды/проекта](https://habrahabr.ru/company/jugru/blog/159689/)
 
