@@ -43,6 +43,7 @@
 * [Дайджест бесплатных образовательных материалов](https://habrahabr.ru/company/mailru/blog/280079/)
 * [15 бесплатных онлайн курсов по программированию](https://habrahabr.ru/company/studyqa/blog/280111/)
 * [Курсы на русском](https://stepic.org/)
+* [Курсы на русском от СКБ контур](https://ulearn.azurewebsites.net)
 * [Курсы на английском](https://www.udacity.com/)
 
 ## Тесты знаний
