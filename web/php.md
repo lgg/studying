@@ -8,8 +8,12 @@
 
 ## Учебники
 * [PHP правильный путь](http://getjump.me/ru-php-the-right-way/)
+* [Быстрое изучение и объяснение PHP](https://learnxinyminutes.com/docs/ru-ru/php-ru/)
 * [Интерактивное обучение PHP](https://www.phpschool.io/)
 * [ООП в php](http://www.php.su/learnphp/phpoo/)
+* [Стандарты PSR на русском](http://svyatoslav.biz/misc/psr_translation/)
+* [Стандарты PSR на английском](http://www.php-fig.org/psr/)
+* [Стандарты PSR github](https://github.com/php-fig/fig-standards)
 
 ## Курсы
 * [PHP-программист от hexlet](https://ru.hexlet.io/professions/php)
