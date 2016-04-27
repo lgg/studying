@@ -45,6 +45,10 @@
 * [Курсы на русском](https://stepic.org/)
 * [Курсы на русском от СКБ контур](https://ulearn.azurewebsites.net)
 * [Курсы на английском](https://www.udacity.com/)
+* [Free IT eBooks](http://it-ebooks.info/)
+* [Больщой архив IT книг](http://www.foxebook.net/)
+* [Еще архив IT книг](http://www.allitebooks.com/)
+* [Books library](http://libgen.io/)
 
 ## Тесты знаний
 * Общие
