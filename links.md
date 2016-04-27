@@ -20,3 +20,4 @@
 * [Ресурс с полезными статьями по frontend](http://frontender.info/)
 * [Отличный ресурс с уроками и заданиями по frontend](http://jsraccoon.ru/)
 * [Справочник, курсы, уроки и всё на русском языке](https://webref.ru/)
+* [Бесплатные интерактивные курсы на английском](https://www.freecodecamp.com/)

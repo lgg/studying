@@ -10,6 +10,7 @@
 
 ## Ресурсы
 * [Справочник, курсы, уроки и всё на русском языке](https://webref.ru/)
+* [Бесплатные интерактивные курсы на английском](https://www.freecodecamp.com/)
 
 ## Что изучать?
 * [Вариант от frontender.info](http://frontender.info/a-baseline-for-front-end-developers/)
