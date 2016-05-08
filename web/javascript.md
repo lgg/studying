@@ -5,6 +5,7 @@
 * [Учебники](#Учебники)
 * [Курсы](#Курсы)
 * [Angular](#angular)
+* [Пишем хороший код](#Пишем-хороший-код)
 
 ## Что изучать?
 * [Вариант от сообщества FrontendRaccoon](https://vk.com/wall-97408246_5544)
@@ -42,3 +43,8 @@
 * [Angular 1.5: Компоненты](https://habrahabr.ru/post/277087/)
 * [Angular exam](https://github.com/gdi2290/ngExam)
 * [Learning angular](https://github.com/AngularClass/NG6-todomvc-starter)
+
+## Пишем хороший код
+
+* [Как не стоит писать код 1](http://jsraccoon.ru/exercise-bad-code-one)
+* [Как не стоит писать код 2](http://jsraccoon.ru/exercise-bad-code-two)
