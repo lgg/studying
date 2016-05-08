@@ -1,10 +1,15 @@
 # CSS
 
 ## Содержание
+* [Общее](#Общее)
 * [Flexbox](#flexbox)
 * [SASS](#sass)
 * [](#)
 * [](#)
+
+## Общее
+
+* [Способы организации CSS-кода](https://habrahabr.ru/post/256109/)
 
 ## Flexbox
 * [Полное руководство по Flexbox на русском](http://frontender.info/a-guide-to-flexbox/)
