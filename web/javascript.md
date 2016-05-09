@@ -4,6 +4,7 @@
 * [Что изучать?](#Что-изучать)
 * [Учебники](#Учебники)
 * [Курсы](#Курсы)
+* [Статьи и уроки](#Статьи-и-уроки)
 * [Angular](#angular)
 * [Пишем хороший код](#Пишем-хороший-код)
 
@@ -38,6 +39,9 @@
 * [Frontend Masters](https://frontendmasters.com/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 * [TeamTreeHouse](https://teamtreehouse.com/library/topic:javascript)
+
+## Статьи и уроки
+* [Debugging в javascript](https://www.youtube.com/watch?v=nPYmp586EE0)
 
 ## Angular
 * [Angular 1.5: Компоненты](https://habrahabr.ru/post/277087/)
