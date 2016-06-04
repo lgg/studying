@@ -21,3 +21,11 @@
 * [Отличный ресурс с уроками и заданиями по frontend](http://jsraccoon.ru/)
 * [Справочник, курсы, уроки и всё на русском языке](https://webref.ru/)
 * [Бесплатные интерактивные курсы на английском](https://www.freecodecamp.com/)
+
+## Площадки для обучения
+
+* [CodinGame](https://www.codingame.com/start)
+* [CodeCombat](https://codecombat.com/)
+* [CodeWars](http://www.codewars.com/)
+* []()
+* []()
