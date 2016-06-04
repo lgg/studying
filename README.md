@@ -26,6 +26,7 @@
     * [Desktop разработка](/desktop/readme.md)
     * [Системное администрирование](/system-administration/readme.md)
         * [Администрирование unix](/system-administration/unix.md)
+        * [Сети](/system-administration/network.md)
     * [Безопасность](/security/readme.md)
         * [Capture The Flag](/security/ctf.md)
         * [Web безопасность](/security/web.md)
