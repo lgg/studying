@@ -14,7 +14,8 @@
 
 ## Flexbox
 * [Полное руководство по Flexbox на русском](http://frontender.info/a-guide-to-flexbox/)
-* [Онлайн тест для быстрого понимания и изучения](http://flexboxfroggy.com/)
+* [Игра для быстрого понимания и изучения](http://flexboxfroggy.com/)
+* [Еще один вариант игры для быстрого понимания и изучения](http://www.flexboxdefense.com/)
 
 ## SASS
 
