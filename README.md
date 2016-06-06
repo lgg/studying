@@ -30,6 +30,7 @@
     * [Безопасность](/security/readme.md)
         * [Capture The Flag](/security/ctf.md)
         * [Web безопасность](/security/web.md)
+        * [Безопасность Wi-Fi](/security/wifi.md)
 * [Ресурсы](#Ресурсы)
 * [Задания](./tasks.md)
 * [Тесты знаний](#Тесты-знаний)
