@@ -31,6 +31,7 @@
         * [Capture The Flag](/security/ctf.md)
         * [Web безопасность](/security/web.md)
         * [Безопасность Wi-Fi](/security/wifi.md)
+    * [Видеомонтаж и создание видео](https://github.com/littleguga/video-montage-tips-ru)
 * [Ресурсы](#Ресурсы)
 * [Задания](./tasks.md)
 * [Тесты знаний](#Тесты-знаний)
