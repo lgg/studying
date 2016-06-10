@@ -10,7 +10,7 @@
 * [Интернет](#Интернет)
     * [HTTP](#http)
     * [URI & URL](#uri--url)
-* [Остальное](#Остальное)
+* [Остальное](./other.md)
 
 ## Подход к изучению
 Наилучшее обучение вне зависимости от разметки/языка:
@@ -75,5 +75,3 @@
 * [SIP URI и URL. Часть 1 (URI, URL и URN)](https://habrahabr.ru/post/190154/)
 * [Из чего состоит URL](/files/general/url_scheme.jpg)
 
-## Остальное
-* [JSON: What It Is, How It Works, & How to Use It](http://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/)
