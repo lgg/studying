@@ -8,6 +8,7 @@
         * [GIT](/general/git.md)
         * [Инструменты разработки](/general/tools.md)
         * [Рабочий процесс](/general/workflow.md)
+        * [Прочие темы](/general/other.md)
     * [Web разработка](/web/readme.md)
         * [Frontend](/web/frontend.md)
             * [HTML](/web/html.md)
