@@ -8,6 +8,7 @@
 
 ## Что изучать?
 * [Карта развития веб-разработчика](https://github.com/zualex/devmap)
+* [Несколько курсов, вопросов и тем для изучения](https://github.com/HowProgrammingWorks/Letters)
 
 ## Учебники
 * [PHP правильный путь](http://getjump.me/ru-php-the-right-way/)
