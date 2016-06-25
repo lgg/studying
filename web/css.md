@@ -11,6 +11,7 @@
 
 * [Способы организации CSS-кода](https://habrahabr.ru/post/256109/)
 * [Сколько весят селекторы в CSS](http://css.yoksel.ru/specifity/)
+* [Сравнение sass/less/stylus](http://forwebdev.ru/css/sass-vs-less-vs-stylus/)
 
 ## Flexbox
 * [Полное руководство по Flexbox на русском](http://frontender.info/a-guide-to-flexbox/)
