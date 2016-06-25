@@ -8,6 +8,7 @@
 
 ## Что изучать?
 * [Карта развития веб-разработчика](https://github.com/zualex/devmap)
+* [Инструкция(что изучать), как стать профессиональным веб-разработчиком](https://medium.freecodecamp.com/the-practical-guide-to-becoming-a-professional-web-developer-2f255bc25c90#.uqdieksrx)
 * [Несколько курсов, вопросов и тем для изучения](https://github.com/HowProgrammingWorks/Letters)
 
 ## Учебники
