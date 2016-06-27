@@ -34,7 +34,7 @@
 * [CodinGame](https://www.codingame.com/start)
 * [CodeCombat](https://codecombat.com/)
 * [CodeWars](http://www.codewars.com/)
-* []()
+* [CodeFights](https://codefights.com/)
 * []()
 
 ## Игры на тему IT(программирование, системное администрирование, безопасность)
