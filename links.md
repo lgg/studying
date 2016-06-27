@@ -36,3 +36,14 @@
 * [CodeWars](http://www.codewars.com/)
 * []()
 * []()
+
+## Игры на тему IT(программирование, системное администрирование, безопасность)
+
+* [TIS-100](http://store.steampowered.com/app/370360)
+* [Hacknet](http://store.steampowered.com/app/365450)
+* [Elevator Saga](http://play.elevatorsaga.com/)
+* [Lightbot](https://lightbot.com/)
+* [The Codex of Alchemical Engineering](http://www.zachtronics.com/the-codex-of-alchemical-engineering/)
+* [Colobot](https://colobot.info/)
+* [CodeSpells](http://store.steampowered.com/app/324190/)
+* [VIM adventures](http://vim-adventures.com/)
