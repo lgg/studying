@@ -5,6 +5,7 @@
     * [С чего начать?](./get-started.md)
     * [Общие знания](/general/readme.md)
         * [Английский язык](/general/english.md)
+        * [Нейронные сети](/general/neuron-networks.md)
         * [GIT](/general/git.md)
         * [Инструменты разработки](/general/tools.md)
         * [Рабочий процесс](/general/workflow.md)
