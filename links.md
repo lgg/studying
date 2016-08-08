@@ -20,6 +20,7 @@
 * [JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
 * [Современный учебник JavaScript](http://learn.javascript.ru/)
 * [Интерактивное обучение JavaScript](http://nodeschool.io/ru/)
+* [Основы программирования](http://composingprograms.com/)
 
 ## Общие ресурсы
 
@@ -28,6 +29,7 @@
 * [Отличный ресурс с уроками и заданиями по frontend](http://jsraccoon.ru/)
 * [Справочник, курсы, уроки и всё на русском языке](https://webref.ru/)
 * [Бесплатные интерактивные курсы на английском](https://www.freecodecamp.com/)
+* [Визуализация работы каждой строчки кода](http://pythontutor.com/)
 
 ## Площадки для обучения
 
