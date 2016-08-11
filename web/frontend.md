@@ -12,6 +12,9 @@
 ## Ресурсы
 * [Справочник, курсы, уроки и всё на русском языке](https://webref.ru/)
 * [Бесплатные интерактивные курсы на английском](https://www.freecodecamp.com/)
+* [Отличный курс по frontend от htmlacademy](https://htmlacademy.ru/)
+* [Ресурс с полезными статьями по frontend](http://frontender.info/)
+* [Отличный ресурс с уроками и заданиями по frontend](http://jsraccoon.ru/)
 
 ## Что изучать?
 * [Вариант от frontender.info](http://frontender.info/a-baseline-for-front-end-developers/)

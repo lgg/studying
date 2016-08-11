@@ -6,6 +6,7 @@
 * [Учебники](#Учебники)
 * [Общие ресурсы](#Общие-ресурсы)
 * [Площадки для обучения](#Площадки-для-обучения)
+* [Площадки для обучения](#Площадки-для-обучения-в-игровом-формате)
 
 ## Что изучать?
 
@@ -24,20 +25,24 @@
 
 ## Общие ресурсы
 
-* [Отличный курс по frontend от htmlacademy](https://htmlacademy.ru/)
-* [Ресурс с полезными статьями по frontend](http://frontender.info/)
-* [Отличный ресурс с уроками и заданиями по frontend](http://jsraccoon.ru/)
-* [Справочник, курсы, уроки и всё на русском языке](https://webref.ru/)
+* [Курс "Как правильно учиться"](https://www.coursera.org/learn/learning-how-to-learn/)
 * [Бесплатные интерактивные курсы на английском](https://www.freecodecamp.com/)
 * [Визуализация работы каждой строчки кода](http://pythontutor.com/)
 
 ## Площадки для обучения
 
+* [Coursera](https://www.coursera.org/)
+* [Stepic](https://stepic.org/explore/courses)
+* [Udacity](https://www.udacity.com/)
+* [KhanAcademy](https://www.khanacademy.org/)
+
+## Площадки для обучения в игровом формате
+
 * [CodinGame](https://www.codingame.com/start)
 * [CodeCombat](https://codecombat.com/)
 * [CodeWars](http://www.codewars.com/)
 * [CodeFights](https://codefights.com/)
-* []()
+* [CodeEval](https://www.codeeval.com/)
 
 ## Игры на тему IT(программирование, системное администрирование, безопасность)
 
