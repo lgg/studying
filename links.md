@@ -35,6 +35,7 @@
 * [Stepic](https://stepic.org/explore/courses)
 * [Udacity](https://www.udacity.com/)
 * [KhanAcademy](https://www.khanacademy.org/)
+* [CodeAcademy](https://www.codecademy.com/)
 
 ## Площадки для обучения в игровом формате
 
