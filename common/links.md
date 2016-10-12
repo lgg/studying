@@ -7,6 +7,7 @@
 * [Общие ресурсы](#Общие-ресурсы)
 * [Площадки для обучения](#Площадки-для-обучения)
 * [Площадки для обучения](#Площадки-для-обучения-в-игровом-формате)
+* [Игры на тему IT(программирование, системное администрирование, безопасность)](#Игры-на-тему-itпрограммирование-системное-администрирование-безопасность)
 
 ## Что изучать?
 
@@ -27,15 +28,10 @@
 
 * [Дайджест бесплатных образовательных материалов](https://habrahabr.ru/company/mailru/blog/280079/)
 * [15 бесплатных онлайн курсов по программированию](https://habrahabr.ru/company/studyqa/blog/280111/)
-* [Курсы на русском](https://stepic.org/)
-* [Курсы на русском от СКБ контур](https://ulearn.azurewebsites.net)
-* [Курсы на английском](https://www.udacity.com/)
 * [Free IT eBooks](http://it-ebooks.info/)
 * [Больщой архив IT книг](http://www.foxebook.net/)
 * [Еще архив IT книг](http://www.allitebooks.com/)
 * [Books library](http://libgen.io/)
-* [Курс "Как правильно учиться"](https://www.coursera.org/learn/learning-how-to-learn/)
-* [Бесплатные интерактивные курсы на английском](https://www.freecodecamp.com/)
 * [Визуализация работы каждой строчки кода](http://pythontutor.com/)
 
 ## Площадки для обучения
@@ -45,6 +41,8 @@
 * [Udacity](https://www.udacity.com/)
 * [KhanAcademy](https://www.khanacademy.org/)
 * [CodeAcademy](https://www.codecademy.com/)
+* [Бесплатные интерактивные курсы на английском](https://www.freecodecamp.com/)
+* [Курсы на русском от СКБ контур](https://ulearn.azurewebsites.net)
 
 ## Площадки для обучения в игровом формате
 
