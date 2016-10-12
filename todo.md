@@ -9,6 +9,7 @@
 * sass
 * именования css
 * PSR
+* add info about free stuff(@edu/github/adobe/jetbrains/microsoft)
 
 * check raindrop for links
 
