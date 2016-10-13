@@ -1,6 +1,7 @@
 # JavaScript
 
 ## Содержание
+
 * [Что изучать?](#Что-изучать)
 * [Учебники](#Учебники)
 * [Курсы](#Курсы)
@@ -9,15 +10,18 @@
 * [Пишем хороший код](#Пишем-хороший-код)
 
 ## Что изучать?
+
 * [Вариант от сообщества FrontendRaccoon](https://vk.com/wall-97408246_5544)
 
 ## Учебники
+
 * [JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
 * [Современный учебник JavaScript](http://learn.javascript.ru/)
 * [Интерактивное обучение JavaScript](http://nodeschool.io/ru/)
 * [Выразительный Javascript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
 
-### На английском:
+### На английском
+
 * [JavaScript & jQuery](http://javascriptbook.com/)
 * [JavaScript for Kids](https://www.nostarch.com/javascriptforkids)
 * [JavaScript for Cats](http://jsforcats.com/)
@@ -30,6 +34,7 @@
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 
 ## Курсы
+
 * [CodeAcademy](https://www.codecademy.com/learn/javascript)
 * [CodeEval](https://www.codeeval.com/)
 * [Coderbyte](https://coderbyte.com/course/learn-javascript-in-one-week)
@@ -41,9 +46,11 @@
 * [TeamTreeHouse](https://teamtreehouse.com/library/topic:javascript)
 
 ## Статьи и уроки
+
 * [Debugging в javascript](https://www.youtube.com/watch?v=nPYmp586EE0)
 
 ## Angular
+
 * [Angular 1.5: Компоненты](https://habrahabr.ru/post/277087/)
 * [Angular exam](https://github.com/gdi2290/ngExam)
 * [Learning angular](https://github.com/AngularClass/NG6-todomvc-starter)

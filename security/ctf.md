@@ -1,6 +1,7 @@
 # Capture the flag
 
 ## Содержание
+
 * [Учебные материалы](#Учебные-материалы)
     * [На русском](#На-русском)
     * [На английском](#На-английском)
@@ -15,6 +16,7 @@
 
 ## Учебные материалы
 ### На русском
+
 * [Курс молодого бойца](http://kmb.ufoctf.ru/)
 * [Лабораторный практикум по Metasploit Framework: Скрытые фишки MSF](https://xakep.ru/2011/03/01/54786/)
 * [Веб-безопасность 101. Курс молодого бойца by Андрей Петухов](https://docs.google.com/document/d/13zgZ_CRRHADwxf41mSSSuoJQLkMc67TXxpYLoW6lRak)
@@ -25,15 +27,18 @@
 * [О соревнованиях CTF и список материалов](http://pycode.ru/2011/01/ctf/)
 
 ### На английском
+
 * [Инструкция по Volatility](/files/security/ctf/Volatility-Report-Part-2_1.pdf)
 
 ## Подкасты
+
 * [Открытая безопасность](http://www.open-sec.ru/)
 * [Диалоги поИБэ](http://risspa.podster.fm/)
 * [Noise Security Bit](http://noisebit.podster.fm/)
 * [Securit13 Podcast](http://securit13.libsyn.com)
 
 ## Наборы заданий и тренировки
+
 * http://freehackquest.com/
 * http://ringzer0team.com/
 * http://root-me.org
@@ -49,17 +54,20 @@
 * [Challenges for Binary Exploitation Workshop](https://github.com/kablaa/CTF-Workshop)
 
 ## Инструменты
+
 * [Some setup scripts for security research tools](https://github.com/zardus/ctf-tools)
 * [CTF framework used by Gallopsled in every CTF](https://github.com/Gallopsled/pwntools)
 * http://pwntools.com
 * [Полезные инструменты для CTF](http://delimitry.blogspot.ru/2014/10/useful-tools-for-ctf.html)
 
 ## Write-ups (разборы заданий)
+
 * https://github.com/ctfs/write-ups-2014
 * https://github.com/ctfs/write-ups-2015
 * https://github.com/ctfs/write-ups-2016
 
 ## Прочие ссылки
+
 * http://www.pentesteracademy.com/
 * http://www.infosecinstitute.com/
 * http://opensecuritytraining.info/
@@ -77,12 +85,14 @@
 * [Best books, tutorials and courses to learn about exploit development](http://www.pentest.guru/index.php/2016/01/28/best-books-tutorials-and-courses-to-learn-about-exploit-development/)
 
 ## Мероприятия
+
 * [RuCTF — это всероссийские межвузовские соревнования по защите информации](https://ructf.org/)
 * [VolgaCTF is an international interuniversity open cybersecurity competition](https://2016.volgactf.ru/)
 * [QCTF — это соревнования по защите информации по правилам Capture the flag (CTF)](http://qctf.ru)
 * [Московские студенческие межвузовские соревнования в области информационной безопасности M*CTF](http://mctf.ru/)
 
 ## Видео-лекции от HackerDom
+
 * [Подробности](https://vk.com/wall-36153862_996)
 * [Вводная лекция (всего полчаса) — о чём курс, кому он будет интересен](https://vk.cc/4gY05t)
 * [Криптография. От исторических шифров до RSA](https://vk.cc/4eGblD)
@@ -98,5 +108,6 @@
 * [Ну и наконец вишенка на торте — бинарные уязвимости, уже прорекламированные в начале](https://vk.cc/4ySC8U)
 
 ## Источники информации
+
 * [Полезные материалы по CTF #AWESOMECTF](https://vk.com/topic-66766496_33351570)
 * [Список лекций от Андрея Гейна](https://vk.com/wall5150346_2194)

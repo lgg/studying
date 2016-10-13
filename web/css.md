@@ -1,6 +1,7 @@
 # CSS
 
 ## Содержание
+
 * [Общее](#Общее)
 * [Flexbox](#flexbox)
 * [SASS](#sass)
@@ -14,6 +15,7 @@
 * [Сравнение sass/less/stylus](http://forwebdev.ru/css/sass-vs-less-vs-stylus/)
 
 ## Flexbox
+
 * [Полное руководство по Flexbox на русском](http://frontender.info/a-guide-to-flexbox/)
 * [Игра для быстрого понимания и изучения](http://flexboxfroggy.com/)
 * [Еще один вариант игры для быстрого понимания и изучения](http://www.flexboxdefense.com/)
