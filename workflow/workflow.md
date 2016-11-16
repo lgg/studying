@@ -43,3 +43,4 @@
 
 * [Метод прогрессивного джипега](http://www.artlebedev.ru/kovodstvo/sections/167/)
 * [Принцип управления проектами](http://artgorbunov.ru/bureau/fff/)
+* [Как не тратить время на мелочи](https://habrahabr.ru/post/315120/)
