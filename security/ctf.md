@@ -34,7 +34,7 @@ Capture The Flag — это соревнования по компьютерно
 ## Учебные материалы
 ### На русском
 
-* [Курс молодого бойца](http://kmb.ufoctf.ru/)
+* [Отличная база знаний на тему CTF](http://kmb.ufoctf.ru/)
 * [Лабораторный практикум по Metasploit Framework: Скрытые фишки MSF](https://xakep.ru/2011/03/01/54786/)
 * [Веб-безопасность 101. Курс молодого бойца by Андрей Петухов](https://docs.google.com/document/d/13zgZ_CRRHADwxf41mSSSuoJQLkMc67TXxpYLoW6lRak)
 * [Анализ безопасности веб-проектов ](https://stepic.org/course/127/)
@@ -45,6 +45,7 @@ Capture The Flag — это соревнования по компьютерно
 
 ### На английском
 
+* [Guide по CTF](https://trailofbits.github.io/ctf/)
 * [Инструкция по Volatility](/files/security/ctf/Volatility-Report-Part-2_1.pdf)
 
 ## Подкасты
