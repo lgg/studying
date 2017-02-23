@@ -39,6 +39,8 @@
         * [Фриланс](./workflow/freelance.md)
     * [Прочие темы](./common/other.md)
         * [Нейронные сети](./desktop/neuron-networks.md)
+    * [Железо](./hardware/)
+        * [Ремонт и пайка](./hardware/soldering-repairs.md)
     * [Видеомонтаж и создание видео](https://github.com/lgg/video-montage-tips-ru)
 * [Ресурсы](#Ресурсы)
 * [Задания](./common/tasks.md)
