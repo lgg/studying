@@ -3,7 +3,7 @@
 ## Содержание
 
 * [Каналы на youtube](#Каналы-на-youtube)
-* [Отдельные видеоуроки](#Отдельные видеоуроки)
+* [Отдельные видеоуроки](#Отдельные-видеоуроки)
 
 ## Каналы на youtube
 
@@ -16,7 +16,10 @@
 * [MasterTech Service](https://www.youtube.com/user/evgeny251/videos)
 * [PC Expert](https://www.youtube.com/channel/UCLAkaWhM73EJ_SvNOkoOGWQ/videos)
 * [Fix Apple -The Kardi Lab](https://www.youtube.com/channel/UCUn739Q1pK6z8ab6Hycabpw/videos)
+* [easyelectronics](https://www.youtube.com/user/easyelectronics/videos)
 
-##
+## Отдельные видеоуроки
 
-* [Как научиться паять](https://www.youtube.com/watch?v=EOqK6qG0Xhw)
+* [Как научиться паять](https://www.youtube.com/watch?v=k40A1iczJW4)
+* [Как научиться паять 2](https://www.youtube.com/watch?v=EOqK6qG0Xhw)
+* [Как пользоваться мультиметром](https://www.youtube.com/watch?v=qSGlSnsF6QA)
