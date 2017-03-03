@@ -37,6 +37,7 @@
         * [Инструменты разработки](./workflow/tools.md)
         * [Рабочий процесс](./workflow/workflow.md)
         * [Фриланс](./workflow/freelance.md)
+        * [Резюме](./workflow/cv.md)
     * [Прочие темы](./common/other.md)
         * [Нейронные сети](./desktop/neuron-networks.md)
     * [Железо](./hardware/)
