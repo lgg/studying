@@ -130,5 +130,6 @@ Capture The Flag — это соревнования по компьютерно
 * [CTF News](https://vk.com/public81868406)
 * [UFO CTF](https://vk.com/club66766496)
 * [Juniors CTF](https://vk.com/public63364071)
+* [Bo0oM 💣](https://vk.com/public27912655)
 * [Полезные материалы по CTF #AWESOMECTF](https://vk.com/topic-66766496_33351570)
 * [Список лекций от Андрея Гейна](https://vk.com/wall5150346_2194)
