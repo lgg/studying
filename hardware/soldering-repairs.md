@@ -17,9 +17,12 @@
 * [PC Expert](https://www.youtube.com/channel/UCLAkaWhM73EJ_SvNOkoOGWQ/videos)
 * [Fix Apple -The Kardi Lab](https://www.youtube.com/channel/UCUn739Q1pK6z8ab6Hycabpw/videos)
 * [easyelectronics](https://www.youtube.com/user/easyelectronics/videos)
+* [AlexGyver](https://www.youtube.com/channel/UCgtAOyEQdAyjvm9ATCi_Aig/videos)
 
 ## Отдельные видеоуроки
 
-* [Как научиться паять](https://www.youtube.com/watch?v=k40A1iczJW4)
-* [Как научиться паять 2](https://www.youtube.com/watch?v=EOqK6qG0Xhw)
+* [Уход за паяльником и основные понятия](https://www.youtube.com/watch?v=9aw5TLot96k)
+* [Как паять паяльником, обучение](https://www.youtube.com/watch?v=k40A1iczJW4)
+* [Как очистить и залудить жало паяльника](https://www.youtube.com/watch?v=tpNwkvaNV5I)
+* [Как научиться паять](https://www.youtube.com/watch?v=EOqK6qG0Xhw)
 * [Как пользоваться мультиметром](https://www.youtube.com/watch?v=qSGlSnsF6QA)
