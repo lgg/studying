@@ -12,6 +12,7 @@
 ## Что изучать?
 
 * [Карта развития веб-разработчика](https://github.com/zualex/devmap)
+* [Как стать веб-разработчиком — план действий](https://habrahabr.ru/company/netologyru/blog/328426/)
 * [Инструкция(что изучать), как стать профессиональным веб-разработчиком](https://medium.freecodecamp.com/the-practical-guide-to-becoming-a-professional-web-developer-2f255bc25c90#.uqdieksrx)
 * [Несколько курсов, вопросов и тем для изучения](https://github.com/HowProgrammingWorks/Letters)
 
@@ -26,6 +27,7 @@
 
 ## Общие ресурсы
 
+* [90+ бесплатных ресурсов для самостоятельного обучения онлайн](https://habrahabr.ru/post/324638/)
 * [Дайджест бесплатных образовательных материалов](https://habrahabr.ru/company/mailru/blog/280079/)
 * [15 бесплатных онлайн курсов по программированию](https://habrahabr.ru/company/studyqa/blog/280111/)
 * [Free IT eBooks](http://it-ebooks.info/)
