@@ -56,6 +56,7 @@
 
 ## Игры на тему IT(программирование, системное администрирование, безопасность)
 
+* [Игры, в которых нужно писать код](https://habrahabr.ru/company/mailru/blog/328806/)
 * [TIS-100](http://store.steampowered.com/app/370360)
 * [Hacknet](http://store.steampowered.com/app/365450)
 * [Elevator Saga](http://play.elevatorsaga.com/)

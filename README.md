@@ -6,6 +6,7 @@
     * [С чего начать?](./common/get-started.md)
     * [Общие знания](./common//readme.md)
         * [Английский язык](./common/english.md)
+        * [Продажи](./common/sales.md)
     * [Web разработка](./web/readme.md)
         * [Frontend](./web/frontend.md)
             * [HTML](./web/html.md)
