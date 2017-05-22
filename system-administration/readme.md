@@ -23,4 +23,5 @@
 ## Квалификация знаний
 
 * [Что должен знать linux админ](https://toster.ru/q/324015)
+* [Что должен знать сетевой инженер? Чек-лист](https://habrahabr.ru/company/tssolution/blog/328306/)
 * [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
