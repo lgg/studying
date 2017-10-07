@@ -14,6 +14,7 @@
     * [HTTP](#http)
     * [URI & URL](#uri--url)
 * [Остальное](./other.md)
+* [Криптовалюты](./cryptocoins.md)
 
 ## Подход к изучению
 
