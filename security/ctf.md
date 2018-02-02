@@ -83,6 +83,7 @@ Capture The Flag — это соревнования по компьютерно
 * https://github.com/ctfs/write-ups-2014
 * https://github.com/ctfs/write-ups-2015
 * https://github.com/ctfs/write-ups-2016
+* [Супер-подробнейший, на 121 (!) страницу разбор таскового CTF, который был проведен в первый день Кубка CTF России](/files/security/ctf/writeup_ctfcup-2018_task-based.pdf)
 
 ## Прочие ссылки
 
