@@ -1,5 +1,9 @@
 # Resources for learning in IT
 
+**[Версия на русском](./README-ru.md)**
+
+---
+
 This is an overview page that will allow you to understand what you can do in the IT.
 
 ## Table of content
