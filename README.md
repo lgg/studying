@@ -1,75 +1,76 @@
-# Список материалов для обучения
+# Resources for learning in IT
 
-## Содержание
+This is an overview page that will allow you to understand what you can do in the IT.
 
-* Темы
-    * [С чего начать?](./common/get-started.md)
-    * [Общие знания](./common//readme.md)
-        * [Английский язык](./common/english.md)
-        * [Продажи](./common/sales.md)
+## Table of content
+
+* Topics
+    * [Where to begin](./common/get-started.md)
+    * [General knowledge](./common/readme.md)
+        * [English language](./common/english.md)
+        * [Sales](./common/sales.md)
     * [Data Science](./ds/readme.md)
-    * [Web разработка](./web/readme.md)
+        * [Neural Networks](./desktop/neuron-networks.md)
+    * [Web development](./web/readme.md)
         * [Frontend](./web/frontend.md)
             * [HTML](./web/html.md)
             * [CSS](./web/css.md)
             * [Javascript](./web/javascript.md)
-            * [Инструменты разработчика](./workflow/tools.md)
+            * [Developer tools](./workflow/tools.md)
         * [Backend](./web/backend.md)
             * [PHP](./web/php.md)
         * [SQL](./web/sql.md)
         * [SEO](./web/seo.md)
-    * [Мобильная разработка](./mobile/readme.md)
+    * [Mobile development](./mobile/readme.md)
         * [Java](./mobile/java.md)
         * [Android](./mobile/android.md)
         * [iOS](./mobile/ios.md)
         * [Windows Phone](./mobile/winphone.md)
-    * [Desktop разработка](./desktop/readme.md)
-    * [Системное администрирование](./system-administration/readme.md)
-        * [Администрирование unix](./system-administration/unix.md)
-        * [Сети](./system-administration/network.md)
-    * [Безопасность](./security/readme.md)
+    * [Desktop development](./desktop/readme.md)
+    * [System administration](./system-administration/readme.md)
+        * [Unix administration](./system-administration/unix.md)
+        * [Networks](./system-administration/network.md)
+    * [Security](./security/readme.md)
         * [Capture The Flag](./security/ctf.md)
-        * [Web безопасность](./security/web.md)
-        * [Безопасность Wi-Fi](./security/wifi.md)
+        * [Web security](./security/web.md)
+        * [Wi-Fi security](./security/wifi.md)
         * [Reverse Engineering](./security/reverse.md)
-    * [Рабочий процесс](./workflow/readme.md)
-        * [Мотивация](./workflow/motivation.md)
-        * [Работа в команде](./workflow/teamwork.md)
+    * [Workflow](./workflow/readme.md)
+        * [Motivation](./workflow/motivation.md)
+        * [Teamwork](./workflow/teamwork.md)
         * [GIT](./workflow/git.md)
-        * [Инструменты разработки](./workflow/tools.md)
-        * [Рабочий процесс](./workflow/workflow.md)
-        * [Фриланс](./workflow/freelance.md)
-        * [Резюме](./workflow/cv.md)
-    * [Прочие темы](./common/other.md)
-        * [Нейронные сети](./desktop/neuron-networks.md)
-        * [Криптовалюты](./common/cryptocoins.md)
-    * [Железо](./hardware/)
-        * [Ремонт и пайка](./hardware/soldering-repairs.md)
-    * [Видеомонтаж и создание видео](https://github.com/lgg/video-montage-tips-ru)
-* [Ресурсы](#Ресурсы)
-* [Задания](./common/tasks.md)
-* [Тесты знаний](#Тесты-знаний)
-* [Мероприятия](./common/events.md)
+        * [Tools](./workflow/tools.md)
+        * [Workflow](./workflow/workflow.md)
+        * [Freelance](./workflow/freelance.md)
+        * [CV](./workflow/cv.md)
+    * [Other](./common/other.md)
+        * [Cryptocurrencies](./common/cryptocoins.md)
+    * [Hardware](./hardware/)
+        * [Soldering and repair](./hardware/soldering-repairs.md)
+    * [Video creation and editing](https://github.com/lgg/video-montage-tips-ru)
+* [Tasks](./common/tasks.md)
+* [Tests](#Tests)
+* [Events](./common/events.md)
     * [Meet-ups](./common/meetups.md)
-    * [Соревнования](./common/challenges.md)
-* [Чаты](./common/chats.md)
-* [Вопросы](#Вопросы)
+    * [Challenges](./common/challenges.md)
+* [Chats](./common/chats.md)
+* [Questions](#Questions)
 
-## Курсы и ресурсы
+## Courses and books
 
-* [Список ресурсов и учебников](./common/links.md)
+* [Courses and books](./common/links.md)
 
-## Тесты знаний
+## Tests
 
-* Общие
-    * [Простой тест на 30 минут](https://codility.com/demo/take-sample-test/) для тестирования своих знаний в составлении алгоритмов, поддерживает множество языков
+* General
+    * [A simple 30-minute test](https://codility.com/demo/take-sample-test/) to test your knowledge of algorithmic design, supports many languages
 * WEB
-    * [Тесты на знания SQL](./web/sql.md#Тесты-знаний)
-    * [Тесты на знания PHP](./web/php.md#Тесты-знаний)
-    * [Тест на php+sql](https://tests4geeks.com/test/php-mysql)
+    * [SQL tests](./web/sql.md#Тесты-знаний)
+    * [PHP tests](./web/php.md#Тесты-знаний)
+    * [php+sql tests](https://tests4geeks.com/test/php-mysql)
 
-## Вопросы
+## Questions
 
-* А если я хочу предложить свой материал? - сделайте pull request или откройте issue
-* Зачем всё это? - для систематизации ресурсов и материалов для обучения
-* Также вы можете помочь, отсортировав информацию из папки /tosort/
+* What can I do if I want to suggest my own link? - create a pull request
+* Why did you create this? - to organize resources and materials for studying
+* You can help by sorting links from [`tosort`](./tosort) folder
